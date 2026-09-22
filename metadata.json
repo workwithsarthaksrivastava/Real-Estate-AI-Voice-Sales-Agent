@@ -1,0 +1,6 @@
+{
+  "name": "EstateVoice AI - Voice Sales Agent for Real Estate",
+  "description": "Autonomous AI Voice Sales Agent for real estate lead qualification, multi-turn phone calls, RAG listing search, function calling, and CRM management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
